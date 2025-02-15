@@ -1,30 +1,34 @@
-## 🌙 Namaz Time Reminder Bot
+# 🌙 Namaz Time Reminder Bot
 
 A **Python-based Telegram bot** that provides **daily Namaz (prayer) times** for Tashkent and allows users to **set reminders** for prayer times. Stay spiritually connected with timely prayer notifications. 🙏
 
 Built using **PyTelegramBotAPI**, **BeautifulSoup**, and **Schedule**, this bot ensures **accurate** and **automated** reminders for all five daily prayers.
 
+---
+
 ## Features
 
-## Prayer Time Notifications  
+### Prayer Time Notifications  
 - **Real-Time Namaz Timings** for Tashkent  
 - **Automated Daily Prayer Updates**  
 - **Accurate Data Scraped from Trusted Sources**  
 - **User-Friendly Reminder System**  
 
-## 🔔 Reminder System  
+### 🔔 Reminder System  
 - **Set Automatic Reminders** for prayer times  
 - **Timely Alerts Before Each Prayer**  
 - **Customizable Notifications**  
 - **Error Handling & Smooth User Flow**  
 
-## 📅 Daily Prayer Schedule  
+### 📅 Daily Prayer Schedule  
 - **Fajr (Bomdod)** ⏰  
 - **Sunrise (Quyosh chiqish)** ☀️  
 - **Dhuhr (Peshin)** 🕰️  
 - **Asr** ⌚  
 - **Maghrib (Shom)** 🌅  
 - **Isha (Xufton)** 🌙  
+
+---
 
 ## Requirements  
 
@@ -36,6 +40,8 @@ Built using **PyTelegramBotAPI**, **BeautifulSoup**, and **Schedule**, this bot 
   - `schedule` (Task Scheduling)  
   - `datetime` (Time & Date Handling)  
   
+---
+
 ## Installation  
 
 1. Clone the Repository  
